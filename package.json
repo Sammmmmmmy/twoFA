@@ -1,0 +1,23 @@
+{
+  "name": "twofa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sammmmmmmy/twoFA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sammmmmmmy/twoFA/issues"
+  },
+  "homepage": "https://github.com/Sammmmmmmy/twoFA#readme",
+  "dependencies": {
+    "base32-decode": "^1.0.0",
+    "base32-encode": "^2.0.0"
+  }
+}
